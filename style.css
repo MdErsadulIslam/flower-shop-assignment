@@ -68,3 +68,31 @@ body{
     padding: 80px 170px;
    background-color: rgba(39, 39, 39, 0.05);
 }
+/* hot deal section --------------------------------------------------------------------------- */
+.hot-deal{
+    background-color: rgba(229, 84, 115, 0.05);
+    margin: 50px 0; 
+}
+.hot-deal-all{
+    padding: 50px 220px;
+    
+    display: flex;
+    justify-content: space-between;
+}
+.hot-deal-h3{
+    font-size: 40px;
+}
+.hot-deal-text{
+}
+/* instragram section ------------------------------------- */
+.instagram-section{
+    padding:50px 240px ;
+}
+.instagram-text{
+    text-align: center;
+}
+.instagram-image{
+    display: flex;
+    justify-content: space-between;
+     
+}
