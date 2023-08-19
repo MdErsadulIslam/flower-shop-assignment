@@ -2,6 +2,7 @@ body{
     margin: 0;
     padding: 0;
 }
+/* banner section--------------------------------------------------------------------- */
 .banner{
     background-color: rgba(229, 84, 115, 0.10);
     display: flex;
@@ -29,7 +30,7 @@ body{
  border: none;
  border-radius: 8px;   
 }
-/* second section */
+/* second section ///////////////////////////////////////////////////////////////////////*/
 .featured-section{
     padding:50px 240px ;
 }
@@ -45,7 +46,7 @@ body{
     background-color:rgba(167, 33, 98, 0.15);
     border-radius: 300px 300px 0 0;
     height: 538px;
-    width: 464px;
+    width: 400px;
     padding: 30px 15px 0 5px;
 }
 #second{
@@ -58,4 +59,12 @@ body{
     text-align: center;
     text-decoration: underline;
     font-weight: bold;
+}
+/* policy section........................................................................ */
+.policy-content{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 240px;
+    padding: 80px 170px;
+   background-color: rgba(39, 39, 39, 0.05);
 }
