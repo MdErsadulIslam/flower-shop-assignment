@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.headline{
+    font-size: 80px;
+    padding: 0 0px;
+    margin: none;
+}
+.text{
+    padding-left: 240px;
+}
+.first-paragraph{
+    color: rgba(39, 39, 39, 0.60);
+}
+.first-sec-image{
+    padding: 50px 240px 0 40px;
+}
+.btn-primary{
+ padding: 20px 43px;
+ background-color:#E55473 ;
+ color: white;
+ border: none;
+ border-radius: 8px;   
+}
