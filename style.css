@@ -29,3 +29,33 @@ body{
  border: none;
  border-radius: 8px;   
 }
+/* second section */
+.featured-section{
+    padding:50px 240px ;
+}
+.second-text{
+    text-align: center;
+}
+.second-image{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.img-bg{
+    background-color:rgba(167, 33, 98, 0.15);
+    border-radius: 300px 300px 0 0;
+    height: 538px;
+    width: 464px;
+    padding: 30px 15px 0 5px;
+}
+#second{
+    background-color: rgba(5, 151, 160, 0.15);
+}
+#third{
+    background-color: rgba(71, 125, 17, 0.15);
+}
+.second-image p{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+}
